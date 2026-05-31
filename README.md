@@ -24,7 +24,7 @@ This automated scanner relies on basic Python 3 functionalities and requires the
 
 1. Clone or download this repository into your dedicated local folder:
 ```bash
-git clone https://github.com
+git clone https://github.com/mralex398-sketch/
 cd Conditional-Error-SQLi-Bruteforcer
 ```
 
